@@ -55,7 +55,7 @@ class _ChatScreenState extends State<ChatScreen> {
                   widget.contact.online ? 'Active now' : 'Offline',
                   style: TextStyle(
                     fontSize: 12,
-                    color: widget.contact.online ? const Color.fromARGB(255, 103, 255, 204) : Colors.grey,
+                    color: widget.contact.online ? const Color.fromARGB(255, 84, 232, 79) : Colors.grey,
                   ),
                 ),
               ],
